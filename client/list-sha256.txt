@@ -1,1 +1,1 @@
-4.3.26	nomadeos_client_mt300n-v2_01-06-2026.bin	19a9f5c034725a9aab9207fa7aa0dcb37277bdf3dfb9bb2acd8af6eb7e13264a	14942812
+4.3.26	nomadeos_client_mt300n-v2_16-06-2026.bin	2f440c4ee29bddd4b955ac94cd478e0f3b04e19aabb29d05c4ba32bf3cf826ff	14942812
