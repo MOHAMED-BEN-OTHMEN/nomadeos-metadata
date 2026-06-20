@@ -1,1 +1,1 @@
-4.3.26	nomadeos_server_mt300n-v2_16-06-2026.bin	86befbdef0a60dec143fcc7c6ad61d0fff0ea5f6940dfaaa01586bb091a37bf4	14942812
+4.3.27	nomadeos_server_mt300n-v2_20-06-2026.bin	2b2efdf72f849279c0e1effae08afed37cf85bc8d9c3838774fff857d7e1ad25	14942812
